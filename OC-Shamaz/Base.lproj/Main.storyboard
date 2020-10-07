@@ -19,7 +19,7 @@
                                 <rect key="frame" x="107" y="600" width="200" height="50"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="MIf-Rz-9fQ"/>
+                                    <constraint firstAttribute="height" constant="50" id="GES-cx-qJz"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="ArialRoundedMTBold" family="Arial Rounded MT Bold" pointSize="35"/>
                                 <state key="normal" title="PAST">
@@ -53,16 +53,16 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="1" green="0.79607843137254897" blue="0.64313725490196072" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
-                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="top" secondItem="Qds-0U-p4S" secondAttribute="bottom" constant="26" id="0te-np-jDE"/>
+                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="107" id="2Gs-dn-FdE"/>
+                            <constraint firstItem="plH-Md-49w" firstAttribute="top" secondItem="3Sy-Gu-dPn" secondAttribute="bottom" constant="50" id="2Nb-TP-kWB"/>
                             <constraint firstItem="Qds-0U-p4S" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="5M9-S0-8Dv"/>
-                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="107" id="CdQ-ai-Sue"/>
+                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="trailing" secondItem="plH-Md-49w" secondAttribute="trailing" id="EgK-fp-jQp"/>
                             <constraint firstItem="Qds-0U-p4S" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Gl7-7C-P0q"/>
-                            <constraint firstItem="plH-Md-49w" firstAttribute="top" secondItem="3Sy-Gu-dPn" secondAttribute="bottom" constant="50" id="Hu1-wd-9mK"/>
-                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="leading" secondItem="plH-Md-49w" secondAttribute="leading" id="Vvk-UI-F76"/>
-                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="trailing" secondItem="plH-Md-49w" secondAttribute="trailing" id="YqY-jy-qk1"/>
+                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="leading" secondItem="plH-Md-49w" secondAttribute="leading" id="ICg-Qz-NOG"/>
+                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="centerX" secondItem="Qds-0U-p4S" secondAttribute="centerX" id="R3a-1S-ES4"/>
+                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="top" secondItem="Qds-0U-p4S" secondAttribute="bottom" constant="26" id="Tjt-Wd-TIR"/>
                             <constraint firstItem="Qds-0U-p4S" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="ftc-h3-kpu"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="plH-Md-49w" secondAttribute="bottom" constant="112" id="inT-ik-BK0"/>
-                            <constraint firstItem="3Sy-Gu-dPn" firstAttribute="centerX" secondItem="Qds-0U-p4S" secondAttribute="centerX" id="tFc-Hl-QaX"/>
                         </constraints>
                     </view>
                     <connections>

@@ -48,10 +48,11 @@ class ViewController: UIViewController {
         let futureSentencesRandomIndex =  Int(arc4random_uniform(UInt32(futureSentences.count)))
         let randomFutureSentences =  futureSentences[futureSentencesRandomIndex]
        
-        print(randomFutureSentences)
+        //print(randomFutureSentences)
         
         let futureTimesRandomIndex = Int(arc4random_uniform(UInt32(futureTimes.count)))
         let randomFutureTimes = futureTimes[futureTimesRandomIndex]
+        
         print(randomFutureTimes)
         
         let futureActingTask = randomFutureSentences + randomFutureTimes
