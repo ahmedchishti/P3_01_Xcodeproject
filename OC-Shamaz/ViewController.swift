@@ -64,5 +64,5 @@ class ViewController: UIViewController {
 
 // I used MVC since I'm still new to the iOS development platform. The course thoroughly explained the Model - View - Controller and for now I though that this would be my best solution. For that reason, I chose to use MVC instead of MVVM, however, I plan to use MVVM in the future once I get a bit more used to XCode and a bit more of iOS development.
 
-// GitHub code: 149eea8cf26933ccffd98f3de4ecb9727c0abcf2
+
 
