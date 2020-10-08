@@ -14,3 +14,6 @@ on iPhones in portrait mode.
 © Ahmed Chishti
 
 email: ahmedchishti2k@gmail.com
+
+github link for this project:
+https://github.com/ahmedchishti/P3_01_Xcodeproject.git
